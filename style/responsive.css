@@ -1102,6 +1102,10 @@
 	{
 		text-align: left;
 	}
+	.features-list.align-center
+	{
+		text-align: left;
+	}
 	/* --- timeline --- */
 	.timeline-item .timeline-left
 	{
