@@ -713,6 +713,7 @@ h3 .more
 	transition: none;
 	-moz-transition: none;
 	-webkit-transition: none;
+	max-height: 60px;
 }
 .header .logo a:hover img
 {
